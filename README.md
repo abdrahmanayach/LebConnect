@@ -6,7 +6,7 @@
 
 ## 2.Login Form
 
-![Login Form](public/screenshots/login.png)
+![Login Form](public/screenshots/Login.png)
 
 ### 3. Profile Overview (Up to About Section)
 
