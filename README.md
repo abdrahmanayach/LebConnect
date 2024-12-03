@@ -2,19 +2,19 @@
 
 ## 1.Home Page
 
-![Home Page](public/screenshots/home_page.jpeg)
+![Home Page](public/screenshots/home_page.png)
 
 ## 2.Login Form
 
-![Login Form](public/screenshots/login.jpeg)
+![Login Form](public/screenshots/login.png)
 
 ### 3. Profile Overview (Up to About Section)
 
-![Profile Overview](public/screenshots/profile_overview.jpeg)
+![Profile Overview](public/screenshots/profile_overview.png)
 
 ### 4. Experience, and Education, Skills
 
-![Experience and Skills](public/screenshots/profile_details.jpeg)
+![Experience and Skills](public/screenshots/profile_details.png)
 
 ## Features
 
@@ -43,7 +43,7 @@
    ```bash
    cd lebconnect
    ```
-3. Install dependencies (if any):
+3. Install dependencies:
    ```bash
    composer install
    ```
